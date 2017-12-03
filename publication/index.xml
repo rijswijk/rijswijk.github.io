@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on dr. Roland van Rijswijk-Deij</title>
+    <link>https://rijswijk.github.io/publication/</link>
+    <description>Recent content in Publications on dr. Roland van Rijswijk-Deij</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Roland van Rijswijk-Deij</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding the Role of Registrars in DNSSEC Deployment</title>
+      <link>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics and Internet Measurements</title>
+      <link>https://rijswijk.github.io/publication/jcs2017-ethics/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/jcs2017-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIDE - Threat Identification using Active DNS Measurements</title>
+      <link>https://rijswijk.github.io/publication/sigcomm2017-tide/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/sigcomm2017-tide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Root Canary: Monitoring and Measuring the DNSSEC Root Key Rollover</title>
+      <link>https://rijswijk.github.io/publication/sigcomm2017-rootcanary/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/sigcomm2017-rootcanary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Longitudinal, End-to-End View of the DNSSEC Ecosystem</title>
+      <link>https://rijswijk.github.io/publication/usesec2017-dnssec/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/usesec2017-dnssec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
+      <link>https://rijswijk.github.io/publication/ton2017-ecc-dnssec/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/ton2017-ecc-dnssec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Potential of IPv6 Open Resolvers for DDoS Attacks</title>
+      <link>https://rijswijk.github.io/publication/pam2017-ipv6-opendns/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2017-ipv6-opendns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Adoption of DDoS Protection Services</title>
+      <link>https://rijswijk.github.io/publication/imc2016-ddos-protection/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2016-ddos-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Adoption of the Elliptic Curve Digital Signature Algorithm (ECDSA) in DNSSEC</title>
+      <link>https://rijswijk.github.io/publication/cnsm2016-ecdsa/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/cnsm2016-ecdsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A High-Performance, Scalable Infrastructure for Active DNS Measurements</title>
+      <link>https://rijswijk.github.io/publication/jsac2016-openintel/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/jsac2016-openintel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Software Efficiency - Presenting a Methodology and Case Study on DNS Resolvers</title>
+      <link>https://rijswijk.github.io/publication/melecon2016-dnssec-energy/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/melecon2016-dnssec-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making the Case for Elliptic Curves in DNSSEC</title>
+      <link>https://rijswijk.github.io/publication/ccr2015-ecc/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/ccr2015-ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Internet of Names: A DNS Big Dataset</title>
+      <link>https://rijswijk.github.io/publication/sigcomm2015-openintel/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/sigcomm2015-openintel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics in Data Sharing: A Best Practice for NRENs</title>
+      <link>https://rijswijk.github.io/publication/tnc2015-ethics/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnc2015-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Booters - An Analysis of DDoS-as-a-Service Attacks</title>
+      <link>https://rijswijk.github.io/publication/im2015-booters/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/im2015-booters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
