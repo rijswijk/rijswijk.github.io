@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Economic Incentives on DNSSEC Deployment: Time to Move from Quantity to Quality</title>
+      <link>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melting the Snow: Using Active DNS Measurements to Detect Snowshoe Spam Domains</title>
+      <link>https://rijswijk.github.io/publication/noms2018-snowshoe/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/noms2018-snowshoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Understanding the Role of Registrars in DNSSEC Deployment</title>
       <link>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/sigcomm2015-openintel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethics in Data Sharing: A Best Practice for NRENs</title>
-      <link>https://rijswijk.github.io/publication/tnc2015-ethics/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/tnc2015-ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Booters - An Analysis of DDoS-as-a-Service Attacks</title>
-      <link>https://rijswijk.github.io/publication/im2015-booters/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/im2015-booters/</guid>
       <description></description>
     </item>
     
