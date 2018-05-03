@@ -6,7 +6,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/inactive/publications/</loc>
-      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -32,8 +32,26 @@
     
     <url>
     
+      <loc>https://rijswijk.github.io/publication/tma2018-ecs-google/</loc>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rijswijk.github.io/publication/ccr2018-caa/</loc>
+      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -42,7 +60,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/publication/noms2018-snowshoe/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -141,7 +159,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -312,7 +330,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/publication_types/1/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -322,7 +340,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/publication_types/2/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -351,7 +369,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/inactive/</loc>
-      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +379,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/publication_types/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

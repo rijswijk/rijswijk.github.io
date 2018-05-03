@@ -11,9 +11,27 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>https://rijswijk.github.io/publication/tma2018-ecs-google/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tma2018-ecs-google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at Certification Authority Authorization (CAA)</title>
+      <link>https://rijswijk.github.io/publication/ccr2018-caa/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/ccr2018-caa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Economic Incentives on DNSSEC Deployment: Time to Move from Quantity to Quality</title>
       <link>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</guid>
       <description></description>
@@ -22,7 +40,7 @@
     <item>
       <title>Melting the Snow: Using Active DNS Measurements to Detect Snowshoe Spam Domains</title>
       <link>https://rijswijk.github.io/publication/noms2018-snowshoe/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2018-snowshoe/</guid>
       <description></description>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/melecon2016-dnssec-energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making the Case for Elliptic Curves in DNSSEC</title>
-      <link>https://rijswijk.github.io/publication/ccr2015-ecc/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/ccr2015-ecc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Internet of Names: A DNS Big Dataset</title>
-      <link>https://rijswijk.github.io/publication/sigcomm2015-openintel/</link>
-      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/sigcomm2015-openintel/</guid>
       <description></description>
     </item>
     
