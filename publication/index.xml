@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Measuring the Impact of a Successful DDoS Attack on the Customer Behaviour of Managed DNS Service Providers</title>
+      <link>https://rijswijk.github.io/publication/wtmc2018-dyn/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/wtmc2018-dyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google</title>
       <link>https://rijswijk.github.io/publication/tma2018-ecs-google/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/jsac2016-openintel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Software Efficiency - Presenting a Methodology and Case Study on DNS Resolvers</title>
-      <link>https://rijswijk.github.io/publication/melecon2016-dnssec-energy/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/melecon2016-dnssec-energy/</guid>
       <description></description>
     </item>
     
