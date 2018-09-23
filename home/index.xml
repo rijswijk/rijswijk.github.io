@@ -8,7 +8,49 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Roland van Rijswijk-Deij</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://rijswijk.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rijswijk.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/home/about/</guid>
+      <description>About Me I&amp;rsquo;m assistant professor of Computer Network Security in the Design and Analysis of Communication Systems (DACS) group at the Faculty of Electrical Engineering, Maths and Computer Science (EEMCS) at the University of Twente.
+When I&amp;rsquo;m not working on my research in Twente, I am an R&amp;amp;D project manager at SURFnet, the National Research and Education Network (NREN) in The Netherlands. In my job I&amp;rsquo;m responsible for Internet innovation in the areas of network security and privacy.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://rijswijk.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rijswijk.github.io/home/publications_selected/</guid>
+      <description>For a list of all my publications, click here, or visit my Google Scholar profile.</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://rijswijk.github.io/home/students/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/home/students/</guid>
+      <description>Ph.D. Candidates I am daily supervisor of the following Ph.D. candidates in our group:
+ Wouter de Vries Moritz M&amp;uuml;ller  All Ph.D. candidates I supervise are advised by prof. dr. ir. Aiko Pras
+Master Students Current I am currently not supervising any master students. If you are a master student interested in an assignment, feel free to contact me.
+Graduated  Caspar Schutijser (2018) &amp;ndash; thesis Gijs Rijnders (2018) &amp;ndash; thesis Olivier van der Toorn (2017, co-supervisor) Tho Le (2017) &amp;ndash; thesis Romanos Dodopoulos (2015) &amp;ndash; thesis Kaspar Hageman (2015) &amp;ndash; thesis Sean Rijs (2014) &amp;ndash; report Gijs van den Broek (2012) &amp;ndash; paper Niels Monen (2011) &amp;ndash; report Boudewijn Ector (2009) &amp;ndash; thesis (in Dutch)  Bachelor Students Current I am currently not supervising any bachelor students.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rijswijk.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
