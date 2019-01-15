@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy-Conscious Threat Intelligence Using DNSBloom</title>
+      <link>https://rijswijk.github.io/publication/im2019-bloom/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/im2019-bloom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at QNAME Minimization in the Domain Name System</title>
+      <link>https://rijswijk.github.io/publication/pam2019-qmin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2019-qmin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring the Impact of a Successful DDoS Attack on the Customer Behaviour of Managed DNS Service Providers</title>

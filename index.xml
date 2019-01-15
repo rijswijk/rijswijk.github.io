@@ -38,6 +38,24 @@
     </item>
     
     <item>
+      <title>Privacy-Conscious Threat Intelligence Using DNSBloom</title>
+      <link>https://rijswijk.github.io/publication/im2019-bloom/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/im2019-bloom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at QNAME Minimization in the Domain Name System</title>
+      <link>https://rijswijk.github.io/publication/pam2019-qmin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2019-qmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measuring the Impact of a Successful DDoS Attack on the Customer Behaviour of Managed DNS Service Providers</title>
       <link>https://rijswijk.github.io/publication/wtmc2018-dyn/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/usesec2017-dnssec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
-      <link>https://rijswijk.github.io/publication/ton2017-ecc-dnssec/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/ton2017-ecc-dnssec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Potential of IPv6 Open Resolvers for DDoS Attacks</title>
-      <link>https://rijswijk.github.io/publication/pam2017-ipv6-opendns/</link>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/pam2017-ipv6-opendns/</guid>
       <description></description>
     </item>
     
