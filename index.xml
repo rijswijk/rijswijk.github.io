@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dr. Roland van Rijswijk-Deij on dr. Roland van Rijswijk-Deij</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -34,6 +33,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
+      <link>https://rijswijk.github.io/publication/tnsm2019-rolling/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnsm2019-rolling/</guid>
       <description></description>
     </item>
     
@@ -133,15 +141,6 @@
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/sigcomm2017-rootcanary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Longitudinal, End-to-End View of the DNSSEC Ecosystem</title>
-      <link>https://rijswijk.github.io/publication/usesec2017-dnssec/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/usesec2017-dnssec/</guid>
       <description></description>
     </item>
     

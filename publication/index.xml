@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
+      <link>https://rijswijk.github.io/publication/tnsm2019-rolling/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnsm2019-rolling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy-Conscious Threat Intelligence Using DNSBloom</title>
       <link>https://rijswijk.github.io/publication/im2019-bloom/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
