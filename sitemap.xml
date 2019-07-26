@@ -5,7 +5,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/inactive/publications/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -206,6 +206,15 @@
     
     <url>
     
+      <loc>https://rijswijk.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rijswijk.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -226,15 +235,6 @@
     
       <loc>https://rijswijk.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://rijswijk.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -270,7 +270,7 @@
     <url>
     
       <loc>https://rijswijk.github.io/inactive/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
