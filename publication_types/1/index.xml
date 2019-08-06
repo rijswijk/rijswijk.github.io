@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rpki/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rpki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rootksk/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rootksk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy-Conscious Threat Intelligence Using DNSBloom</title>

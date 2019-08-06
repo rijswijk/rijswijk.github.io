@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rpki/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rpki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rootksk/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rootksk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google (extended version)</title>
+      <link>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rolling with Confidence: Managing the Complexity of DNSSEC Operations</title>
       <link>https://rijswijk.github.io/publication/tnsm2019-rolling/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>

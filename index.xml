@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Recent Publications</title>
       <link>https://rijswijk.github.io/inactive/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/publications/</guid>
       <description></description>
@@ -33,6 +33,33 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rpki/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rpki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover</title>
+      <link>https://rijswijk.github.io/publication/imc2019-rootksk/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2019-rootksk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google (extended version)</title>
+      <link>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</guid>
       <description></description>
     </item>
     
@@ -114,33 +141,6 @@
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethics and Internet Measurements</title>
-      <link>https://rijswijk.github.io/publication/jcs2017-ethics/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/jcs2017-ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TIDE - Threat Identification using Active DNS Measurements</title>
-      <link>https://rijswijk.github.io/publication/sigcomm2017-tide/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/sigcomm2017-tide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Root Canary: Monitoring and Measuring the DNSSEC Root Key Rollover</title>
-      <link>https://rijswijk.github.io/publication/sigcomm2017-rootcanary/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/sigcomm2017-rootcanary/</guid>
       <description></description>
     </item>
     
