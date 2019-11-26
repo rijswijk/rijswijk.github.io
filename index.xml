@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -33,6 +33,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global-Scale Anycast Network Management with Verfploeter</title>
+      <link>https://rijswijk.github.io/publication/noms2020-verfploeter/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/noms2020-verfploeter/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2018-snowshoe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding the Role of Registrars in DNSSEC Deployment</title>
-      <link>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</link>
-      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/imc2017-dnssec-registrars/</guid>
       <description></description>
     </item>
     
