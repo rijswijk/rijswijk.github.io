@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -33,6 +33,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Parents and Children Disagree: Diving into DNS Delegation Inconsistency</title>
+      <link>https://rijswijk.github.io/publication/pam2020-parchild/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2020-parchild/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2018-dnssec-incentive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melting the Snow: Using Active DNS Measurements to Detect Snowshoe Spam Domains</title>
-      <link>https://rijswijk.github.io/publication/noms2018-snowshoe/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/noms2018-snowshoe/</guid>
       <description></description>
     </item>
     

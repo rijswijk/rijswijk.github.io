@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When Parents and Children Disagree: Diving into DNS Delegation Inconsistency</title>
+      <link>https://rijswijk.github.io/publication/pam2020-parchild/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2020-parchild/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Global-Scale Anycast Network Management with Verfploeter</title>
