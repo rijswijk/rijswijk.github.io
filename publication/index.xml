@@ -13,20 +13,29 @@
     
     
     <item>
-      <title>When Parents and Children Disagree: Diving into DNS Delegation Inconsistency</title>
-      <link>https://rijswijk.github.io/publication/pam2020-parchild/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>
+      <link>https://rijswijk.github.io/publication/usesec2020-dane/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rijswijk.github.io/publication/pam2020-parchild/</guid>
+      <guid>https://rijswijk.github.io/publication/usesec2020-dane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global-Scale Anycast Network Management with Verfploeter</title>
       <link>https://rijswijk.github.io/publication/noms2020-verfploeter/</link>
-      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2020-verfploeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Parents and Children Disagree: Diving into DNS Delegation Inconsistency</title>
+      <link>https://rijswijk.github.io/publication/pam2020-parchild/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/pam2020-parchild/</guid>
       <description></description>
     </item>
     
