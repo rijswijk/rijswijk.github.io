@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>
       <link>https://rijswijk.github.io/publication/usesec2020-dane/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/usesec2020-dane/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Global-Scale Anycast Network Management with Verfploeter</title>
       <link>https://rijswijk.github.io/publication/noms2020-verfploeter/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2020-verfploeter/</guid>
       <description></description>

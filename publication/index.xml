@@ -15,7 +15,7 @@
     <item>
       <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>
       <link>https://rijswijk.github.io/publication/usesec2020-dane/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/usesec2020-dane/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>Global-Scale Anycast Network Management with Verfploeter</title>
       <link>https://rijswijk.github.io/publication/noms2020-verfploeter/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/noms2020-verfploeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google (extended version)</title>
+      <link>https://rijswijk.github.io/publication/tnsm2020-ecs-google/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/tnsm2020-ecs-google/</guid>
       <description></description>
     </item>
     
@@ -54,15 +63,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/imc2019-rootksk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google (extended version)</title>
-      <link>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/tnsm2019-ecs-google/</guid>
       <description></description>
     </item>
     
