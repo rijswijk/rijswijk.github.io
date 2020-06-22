@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Forgotten Side of DNS: Orphan and Abandoned Records</title>
+      <link>https://rijswijk.github.io/publication/wtmc2020-orphans/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/wtmc2020-orphans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>

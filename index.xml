@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2018 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -33,6 +33,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/inactive/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Forgotten Side of DNS: Orphan and Abandoned Records</title>
+      <link>https://rijswijk.github.io/publication/wtmc2020-orphans/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/wtmc2020-orphans/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/tma2018-ecs-google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A First Look at Certification Authority Authorization (CAA)</title>
-      <link>https://rijswijk.github.io/publication/ccr2018-caa/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/ccr2018-caa/</guid>
       <description></description>
     </item>
     

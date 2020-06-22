@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>The Forgotten Side of DNS: Orphan and Abandoned Records</title>
+      <link>https://rijswijk.github.io/publication/wtmc2020-orphans/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/wtmc2020-orphans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>
       <link>https://rijswijk.github.io/publication/usesec2020-dane/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
