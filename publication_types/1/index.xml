@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>TXTing 101: Finding Security Issues in the Long Tail of DNS TXT Records</title>
+      <link>https://rijswijk.github.io/publication/wtmc2020-txt/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/wtmc2020-txt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Forgotten Side of DNS: Orphan and Abandoned Records</title>
       <link>https://rijswijk.github.io/publication/wtmc2020-orphans/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
