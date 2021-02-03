@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2020 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -37,9 +37,63 @@
     </item>
     
     <item>
+      <title>Evaluating RPKI ROV Identification Methodologies in Automatically Generated Mininet Topologies</title>
+      <link>https://rijswijk.github.io/publication/conext2020-rpki-mininet/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/conext2020-rpki-mininet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BGP Anycast Tuner: Intuitive Route Management for Anycast Services</title>
+      <link>https://rijswijk.github.io/publication/cnsm2020-bgpanytuner/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/cnsm2020-bgpanytuner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrofitting Post-Quantum Cryptography in Internet Protocols: a Case Study of DNSSEC</title>
+      <link>https://rijswijk.github.io/publication/ccr2020-pqc4dnssec/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/ccr2020-pqc4dnssec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAnycast2 - Using Anycast to Measure Anycast: Challenges and Opportunities</title>
+      <link>https://rijswijk.github.io/publication/imc2020-anycast/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2020-anycast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Reality of Algorithm Agility: Studying the DNSSEC Algorithm Life-Cycle</title>
+      <link>https://rijswijk.github.io/publication/imc2020-algo/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/imc2020-algo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Responsible Internet to Increase Trust in the Digital World</title>
+      <link>https://rijswijk.github.io/publication/jnsm2020-catrin/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/jnsm2020-catrin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TXTing 101: Finding Security Issues in the Long Tail of DNS TXT Records</title>
       <link>https://rijswijk.github.io/publication/wtmc2020-txt/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/wtmc2020-txt/</guid>
       <description></description>
@@ -48,7 +102,7 @@
     <item>
       <title>The Forgotten Side of DNS: Orphan and Abandoned Records</title>
       <link>https://rijswijk.github.io/publication/wtmc2020-orphans/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/wtmc2020-orphans/</guid>
       <description></description>
@@ -57,7 +111,7 @@
     <item>
       <title>A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email</title>
       <link>https://rijswijk.github.io/publication/usesec2020-dane/</link>
-      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/usesec2020-dane/</guid>
       <description></description>
@@ -87,60 +141,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rijswijk.github.io/publication/pam2020-parchild/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins</title>
-      <link>https://rijswijk.github.io/publication/imc2019-rpki/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/imc2019-rpki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover</title>
-      <link>https://rijswijk.github.io/publication/imc2019-rootksk/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/imc2019-rootksk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rolling with Confidence: Managing the Complexity of DNSSEC Operations</title>
-      <link>https://rijswijk.github.io/publication/tnsm2019-rolling/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/tnsm2019-rolling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy-Conscious Threat Intelligence Using DNSBloom</title>
-      <link>https://rijswijk.github.io/publication/im2019-bloom/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/im2019-bloom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A First Look at QNAME Minimization in the Domain Name System</title>
-      <link>https://rijswijk.github.io/publication/pam2019-qmin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/pam2019-qmin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring the Impact of a Successful DDoS Attack on the Customer Behaviour of Managed DNS Service Providers</title>
-      <link>https://rijswijk.github.io/publication/wtmc2018-dyn/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rijswijk.github.io/publication/wtmc2018-dyn/</guid>
       <description></description>
     </item>
     

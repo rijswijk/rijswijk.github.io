@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016-2020 Roland van Rijswijk-Deij</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rijswijk.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrofitting Post-Quantum Cryptography in Internet Protocols: a Case Study of DNSSEC</title>
+      <link>https://rijswijk.github.io/publication/ccr2020-pqc4dnssec/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/ccr2020-pqc4dnssec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Responsible Internet to Increase Trust in the Digital World</title>
+      <link>https://rijswijk.github.io/publication/jnsm2020-catrin/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rijswijk.github.io/publication/jnsm2020-catrin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Passive Observations of a Large DNS Service: 2.5 Years in the Life of Google (extended version)</title>
